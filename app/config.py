@@ -1,0 +1,3 @@
+UPLOAD_FOLDER = "uploads"
+OPENROUTER_API_KEY = ""
+MODEL_NAME = "openai/gpt-oss-20b:free"
